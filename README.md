@@ -1,7 +1,5 @@
 # "good for future in software company"
 
-### Full Course
-
 ---
 
 ### Author Links
